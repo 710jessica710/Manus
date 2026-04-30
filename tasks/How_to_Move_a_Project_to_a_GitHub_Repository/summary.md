@@ -1,6 +1,7 @@
 # How to Move a Project to a GitHub Repository
 
 **Task URL:** https://manus.im/app/FC97escHUAFB6b0FpZnQS1
+**Status:** running
 
 ---
 
@@ -83,4 +84,25 @@ To pull the last 5 tasks and their outputs from your Manus project, I need your 
 Click **Create API Key**, copy it, and paste it here. I'll use it to fetch the task outputs and push everything to the GitHub repo.
 
 Got it! Reading the Manus API skill first, then pulling the last 5 tasks from the RCYC project.
+
+Everything is now live at **https://github.com/710jessica710/Manus**. Here's what was pushed:
+
+**Root files (uploaded by you):**
+- `RCYC_Weekly_Meta_Ads_Deck_Update_Playbook.pdf`
+- `Q1_2026_Meta_Paid_Social_Performance_Review.pptx`
+- `README.md`
+
+**Last 5 RCYC project tasks** (each with a `summary.md` + any output files):
+
+| Task Folder | Output Files |
+|---|---|
+| `How_to_Move_a_Project_to_a_GitHub_Repository` | summary only |
+| `How_to_Publish_Manus_Projects_to_Git` | summary only |
+| `Best_Practices_for_Setting_Up_Impactful_Affiliate_Programs` | `resmed_tiktok_research.md` |
+| `Case_Study_on_Drive-Time_Modeling_for_Store_Targeting` | `Mendocino_Farms_Case_Study.docx`, `Mendocino_Farms_Case_Study_Short.docx` |
+| `Optimizing_Blended_CAC_and_Search_Spend_Strategies` | `May_Blended_CAC_POV.md`, `scenario_table_full.csv` |
+
+All task summaries include the full agent response text and a direct link back to the original Manus task.
+
+On it — fetching and pushing the last 30 tasks from the RCYC project now.
 

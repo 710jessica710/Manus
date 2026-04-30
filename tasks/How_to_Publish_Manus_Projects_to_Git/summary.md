@@ -1,6 +1,7 @@
 # How to Publish Manus Projects to Git
 
 **Task URL:** https://manus.im/app/6QfYEtnAGM9ztezaNQubUP
+**Status:** waiting
 
 ---
 

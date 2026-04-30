@@ -1,6 +1,7 @@
 # Case Study on Drive-Time Modeling for Store Targeting
 
 **Task URL:** https://manus.im/app/eXm9IFHps1fdYtCoRid7jH
+**Status:** stopped
 
 ---
 

@@ -1,6 +1,7 @@
 # Best Practices for Setting Up Impactful Affiliate Programs
 
 **Task URL:** https://manus.im/app/O5kRvqqHhccspeZMJo4XnO
+**Status:** stopped
 
 ---
 

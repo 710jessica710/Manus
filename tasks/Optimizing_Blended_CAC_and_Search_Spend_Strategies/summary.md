@@ -1,6 +1,7 @@
 # Optimizing Blended CAC and Search Spend Strategies
 
 **Task URL:** https://manus.im/app/vSEGFiLvhVZ8uhKoRCwyX5
+**Status:** stopped
 
 ---
 
